@@ -1,0 +1,34 @@
+{
+  "name": "Cyberpunk 2077",
+  "description": "Tema futurista con colores neón magenta",
+  "author": "Pomodoro Pro",
+  "version": "1.0",
+  "colors": {
+    "background": "#1a0d26",
+    "foreground": "#ff00ff",
+    "primary": "#2d1b3d",
+    "secondary": "#3d2b4d",
+    "accent": "#ff00ff",
+    "text": "#ff00ff",
+    "text_secondary": "#cc00cc",
+    "border": "#3d2b4d",
+    "button_bg": "#2d1b3d",
+    "button_hover": "#3d2b4d",
+    "entry_bg": "#0f0515",
+    "progress_bg": "#2d1b3d",
+    "progress_fg": "#ff00ff"
+  },
+  "fonts": {
+    "primary": "Orbitron",
+    "secondary": "Exo 2",
+    "size_large": 24,
+    "size_medium": 16,
+    "size_small": 12
+  },
+  "effects": {
+    "glow": true,
+    "shadow": true,
+    "border_radius": 8,
+    "transparency": 0.9
+  }
+}

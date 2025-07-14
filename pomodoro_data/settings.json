@@ -1,0 +1,22 @@
+{
+  "work_time": 25,
+  "break_time": 5,
+  "long_break_time": 15,
+  "theme": "Terminal",
+  "sound_enabled": true,
+  "sound_volume": 75,
+  "auto_start_breaks": false,
+  "auto_start_work": false,
+  "window_always_on_top": true,
+  "minimize_to_tray": false,
+  "show_notifications": true,
+  "dark_mode": true,
+  "font_family": "Press Start 2P",
+  "font_size": 20,
+  "language": "es",
+  "pomodoros_until_long_break": 4,
+  "enable_achievements": true,
+  "export_format": "pdf",
+  "backup_enabled": true,
+  "last_backup": "2025-07-14T15:30:00Z"
+}

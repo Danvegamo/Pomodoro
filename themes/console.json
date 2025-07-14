@@ -1,0 +1,11 @@
+{
+  "CTk":        {"fg_color": ["#000000", "#000000"]},
+  "button":     {"fg_color": ["#003200", "#003200"],
+                 "hover_color": ["#004d00", "#004d00"],
+                 "text_color": ["#00ff00", "#00ff00"],
+                 "corner_radius": 4},
+  "label":      {"text_color": ["#00ff00", "#00ff00"]},
+  "entry":      {"fg_color": ["#001a00", "#001a00"],
+                 "text_color": ["#00ff00", "#00ff00"],
+                 "border_color": ["#004d00", "#004d00"]}
+}

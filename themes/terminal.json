@@ -1,0 +1,34 @@
+{
+  "name": "Terminal Retro",
+  "description": "Tema clásico de terminal verde sobre negro",
+  "author": "Pomodoro Pro",
+  "version": "1.0",
+  "colors": {
+    "background": "#000000",
+    "foreground": "#00ff00",
+    "primary": "#003200",
+    "secondary": "#004d00",
+    "accent": "#00ff00",
+    "text": "#00ff00",
+    "text_secondary": "#008000",
+    "border": "#004d00",
+    "button_bg": "#003200",
+    "button_hover": "#004d00",
+    "entry_bg": "#001a00",
+    "progress_bg": "#003200",
+    "progress_fg": "#00ff00"
+  },
+  "fonts": {
+    "primary": "Consolas",
+    "secondary": "Courier New",
+    "size_large": 24,
+    "size_medium": 16,
+    "size_small": 12
+  },
+  "effects": {
+    "glow": true,
+    "shadow": false,
+    "border_radius": 4,
+    "transparency": 0.95
+  }
+}

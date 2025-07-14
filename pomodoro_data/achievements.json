@@ -1,0 +1,108 @@
+{
+  "available_achievements": {
+    "first_session": {
+      "name": "Primer Paso",
+      "description": "Completa tu primera sesión de Pomodoro",
+      "icon": "🎯",
+      "points": 10,
+      "category": "milestone",
+      "rarity": "common",
+      "unlocked_by": ["complete_first_session"]
+    },
+    "streak_5": {
+      "name": "Racha Iniciada",
+      "description": "Completa 5 sesiones seguidas sin pausar",
+      "icon": "🔥",
+      "points": 25,
+      "category": "consistency",
+      "rarity": "uncommon",
+      "unlocked_by": ["streak_count_5"]
+    },
+    "streak_10": {
+      "name": "En Llamas",
+      "description": "Completa 10 sesiones seguidas sin pausar",
+      "icon": "💥",
+      "points": 50,
+      "category": "consistency",
+      "rarity": "rare",
+      "unlocked_by": ["streak_count_10"]
+    },
+    "total_50": {
+      "name": "Veterano del Tiempo",
+      "description": "Completa 50 sesiones totales",
+      "icon": "⭐",
+      "points": 75,
+      "category": "milestone",
+      "rarity": "rare",
+      "unlocked_by": ["total_sessions_50"]
+    },
+    "total_100": {
+      "name": "Maestro del Tiempo",
+      "description": "Completa 100 sesiones totales",
+      "icon": "👑",
+      "points": 150,
+      "category": "milestone",
+      "rarity": "epic",
+      "unlocked_by": ["total_sessions_100"]
+    },
+    "perfect_day": {
+      "name": "Día Perfecto",
+      "description": "Completa 8 sesiones en un solo día",
+      "icon": "✨",
+      "points": 100,
+      "category": "performance",
+      "rarity": "epic",
+      "unlocked_by": ["daily_sessions_8"]
+    },
+    "night_owl": {
+      "name": "Búho Nocturno",
+      "description": "Completa una sesión después de las 10 PM",
+      "icon": "🦉",
+      "points": 20,
+      "category": "time_based",
+      "rarity": "uncommon",
+      "unlocked_by": ["session_after_22"]
+    },
+    "early_bird": {
+      "name": "Madrugador",
+      "description": "Completa una sesión antes de las 6 AM",
+      "icon": "🐦",
+      "points": 30,
+      "category": "time_based",
+      "rarity": "rare",
+      "unlocked_by": ["session_before_6"]
+    },
+    "focus_master": {
+      "name": "Maestro del Enfoque",
+      "description": "Completa 25 horas de tiempo enfocado",
+      "icon": "🧠",
+      "points": 200,
+      "category": "milestone",
+      "rarity": "legendary",
+      "unlocked_by": ["focus_time_1500"]
+    },
+    "environmental_warrior": {
+      "name": "Guerrero Ambiental",
+      "description": "Completa 50 sesiones etiquetadas como 'cambio_climatico'",
+      "icon": "🌱",
+      "points": 100,
+      "category": "specialized",
+      "rarity": "epic",
+      "unlocked_by": ["tag_count_cambio_climatico_50"]
+    }
+  },
+  "categories": {
+    "milestone": "Logros por alcanzar objetivos importantes",
+    "consistency": "Logros por mantener constancia",
+    "performance": "Logros por alto rendimiento",
+    "time_based": "Logros relacionados con horarios",
+    "specialized": "Logros para actividades específicas"
+  },
+  "rarity_levels": {
+    "common": {"color": "#ffffff", "multiplier": 1.0},
+    "uncommon": {"color": "#00ff00", "multiplier": 1.5},
+    "rare": {"color": "#0080ff", "multiplier": 2.0},
+    "epic": {"color": "#8000ff", "multiplier": 3.0},
+    "legendary": {"color": "#ff8000", "multiplier": 5.0}
+  }
+}
