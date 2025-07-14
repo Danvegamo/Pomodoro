@@ -1,13 +1,16 @@
 # 🍅 Pomodoro Pro - Retro Gamified Productivity Timer
 
 <div align="center">
-  <img src="assets/logo.png" alt="Pomodoro Pro Logo" width="200"/>
-  
-  [![Python](https://img.shields.ioshieldsttps://img.shields.io/badgeelds.io/githubodoro Pro** is a comprehensive productivity timer application born from frustration with existing Pomodoro tools that lacked the features I needed as a visual artist and environmental researcher. As someone who works on immersive art projects, climate change initiatives, and indigenous community collaborations, I required a tool that could adapt to my unique workflow patterns while maintaining motivation through gamification.
+    <img src="assets/logo.png" alt="Pomodoro Pro Logo" width="200"/>
+
+
+**Pomodoro Pro** is a comprehensive productivity timer application born from frustration with existing Pomodoro tools that lacked the features I needed as a visual artist and environmental researcher. As someone who works on immersive art projects, climate change initiatives, and indigenous community collaborations, I required a tool that could adapt to my unique workflow patterns while maintaining motivation through gamification.
+</div>
+---
 
 ### 👨‍🎨 About the Creator
 
-I'm **Daniel Vega**, a visual artist specialized in immersive art projects working for climate change and with indigenous communities. I combine my passion for:
+I'm **David Vega**, a visual artist specialized in immersive art projects working for climate change and with indigenous communities. I combine my passion for:
 - **Environmental Research**: Advising climate change projects at global standards
 - **Immersive Storytelling**: Creating processes that connect people with environmental narratives
 - **Academic Excellence**: Teaching at Colombia's top universities
